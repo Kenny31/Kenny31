@@ -1,5 +1,5 @@
 # 💫 Something About Me:
-I am student currently pursuing my masters degree in computer science.<br>I am passionate about software development and data analysis.<br>Shoot me a <a href="mailto: karanbatra31@gmail.com">mail</a> or add me on <a href="https://linkedin.com/in/karanbatra31" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+I am student currently pursuing my masters degree in computer science.<br>I am passionate about software development and data analysis.<br>Shoot me a <a href="mailto: karanbatra31@gmail.com">mail</a> or add me on <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/karanbatra31">LinkedIn</a>.
 
 
 ## 🌐 Socials:
